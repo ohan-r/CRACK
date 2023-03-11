@@ -20,6 +20,7 @@
     "request": "^2.88.2",
     "requests": "^0.3.0",
     "session": "^0.1.0",
+    "set-cookie-parser": "^2.5.1",
     "user-agents": "^1.0.1310"
   },
   "devDependencies": {
