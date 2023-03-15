@@ -1,6 +1,11 @@
 /node_modules
 /clone.js
 /*.save
-/*.txt
+/oh.txt
+/oh-ok.txt
+/.mail.txt
+/.gitignore
+/f.js
+
 /save*
 /let.js
