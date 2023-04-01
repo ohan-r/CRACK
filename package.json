@@ -16,6 +16,7 @@
     "console-clear": "^1.1.1",
     "cookie": "^0.5.0",
     "prompt-sync": "^4.2.0",
+    "random-ip": "^0.0.1",
     "random-useragent": "^0.5.0",
     "request": "^2.88.2",
     "requests": "^0.3.0",
