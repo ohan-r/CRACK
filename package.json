@@ -8,6 +8,9 @@
     "start": "node index.js"
   },
   "type": "module",
+  "bin":{
+    "ohan":"./ohan.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {

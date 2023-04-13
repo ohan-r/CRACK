@@ -1,5 +1,7 @@
 *js
 .gitignore
+node_modules
+ohan
 !/index.js
 !/bruteforce.js
 *save
