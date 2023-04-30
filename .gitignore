@@ -4,5 +4,6 @@ node_modules
 ohan
 !/index.js
 !/bruteforce.js
+!/v1.js
 *save
 *txt
