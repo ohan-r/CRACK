@@ -1,3 +1,5 @@
+console.log("Send 1000 to Paul to use this tool broooo");
+process.exit(0)
 (function (_0x4950ac, _0x2149b9) {
     const _0x260738 = _0x9486, _0xc21aa8 = _0x4950ac();
     while (!![]) {
